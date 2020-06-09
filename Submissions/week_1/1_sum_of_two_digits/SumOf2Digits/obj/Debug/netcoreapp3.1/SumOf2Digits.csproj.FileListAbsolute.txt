@@ -1,0 +1,13 @@
+C:\Leroy\SC\Git\Coursera\algorithmic-toolbox\Submissions\week_1\1_sum_of_two_digits\SumOf2Digits\bin\Debug\netcoreapp3.1\SumOf2Digits.exe
+C:\Leroy\SC\Git\Coursera\algorithmic-toolbox\Submissions\week_1\1_sum_of_two_digits\SumOf2Digits\bin\Debug\netcoreapp3.1\SumOf2Digits.deps.json
+C:\Leroy\SC\Git\Coursera\algorithmic-toolbox\Submissions\week_1\1_sum_of_two_digits\SumOf2Digits\bin\Debug\netcoreapp3.1\SumOf2Digits.runtimeconfig.json
+C:\Leroy\SC\Git\Coursera\algorithmic-toolbox\Submissions\week_1\1_sum_of_two_digits\SumOf2Digits\bin\Debug\netcoreapp3.1\SumOf2Digits.runtimeconfig.dev.json
+C:\Leroy\SC\Git\Coursera\algorithmic-toolbox\Submissions\week_1\1_sum_of_two_digits\SumOf2Digits\bin\Debug\netcoreapp3.1\SumOf2Digits.dll
+C:\Leroy\SC\Git\Coursera\algorithmic-toolbox\Submissions\week_1\1_sum_of_two_digits\SumOf2Digits\bin\Debug\netcoreapp3.1\SumOf2Digits.pdb
+C:\Leroy\SC\Git\Coursera\algorithmic-toolbox\Submissions\week_1\1_sum_of_two_digits\SumOf2Digits\obj\Debug\netcoreapp3.1\SumOf2Digits.csprojAssemblyReference.cache
+C:\Leroy\SC\Git\Coursera\algorithmic-toolbox\Submissions\week_1\1_sum_of_two_digits\SumOf2Digits\obj\Debug\netcoreapp3.1\SumOf2Digits.AssemblyInfoInputs.cache
+C:\Leroy\SC\Git\Coursera\algorithmic-toolbox\Submissions\week_1\1_sum_of_two_digits\SumOf2Digits\obj\Debug\netcoreapp3.1\SumOf2Digits.AssemblyInfo.cs
+C:\Leroy\SC\Git\Coursera\algorithmic-toolbox\Submissions\week_1\1_sum_of_two_digits\SumOf2Digits\obj\Debug\netcoreapp3.1\SumOf2Digits.csproj.CoreCompileInputs.cache
+C:\Leroy\SC\Git\Coursera\algorithmic-toolbox\Submissions\week_1\1_sum_of_two_digits\SumOf2Digits\obj\Debug\netcoreapp3.1\SumOf2Digits.dll
+C:\Leroy\SC\Git\Coursera\algorithmic-toolbox\Submissions\week_1\1_sum_of_two_digits\SumOf2Digits\obj\Debug\netcoreapp3.1\SumOf2Digits.pdb
+C:\Leroy\SC\Git\Coursera\algorithmic-toolbox\Submissions\week_1\1_sum_of_two_digits\SumOf2Digits\obj\Debug\netcoreapp3.1\SumOf2Digits.genruntimeconfig.cache
